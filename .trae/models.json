@@ -1,0 +1,19 @@
+{
+  "custom_models": [
+    {
+      "id": "gpt-4o-apiyi",
+      "name": "GPT-4o (apiyi.com)",
+      "provider": "OpenAI-Compatible",
+      "base_url": "https://api.apiyi.com/v1",
+      "api_key": "964c79f34bdf431996587309d17ac072",
+      "model": "gpt-4o",
+      "description": "GPT-4o模型通过apiyi.com API端点",
+      "capabilities": ["chat", "completion", "text-generation"],
+      "parameters": {
+        "temperature": 0.7,
+        "max_tokens": 2000,
+        "top_p": 1.0
+      }
+    }
+  ]
+}

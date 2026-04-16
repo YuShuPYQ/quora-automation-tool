@@ -1,0 +1,122 @@
+{
+    "chrome_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "base_profile_path": "C:/Users/yushu/Desktop/数据目录",
+    "excel_path": "C:/Users/yushu/Desktop/quora测试.xlsx",
+    "image_folder": "C:/Users/yushu/Desktop/台头",
+    "screenshot_folder": "C:/Users/yushu/Desktop/T",
+    "default_website": "https://www.youtube.com/",
+    "enable_website_navigation": true,
+    "instance_ids": [
+        "cb66f47a-67ae-4555-af3b-0b22ce352535",
+        "3c9a04d0-61b6-4a9b-8cc9-0410356b245c",
+        "2b14ca09-5fea-4b23-8911-326cb64cce92",
+        "0b9dd8ff-5d94-45a8-bf9e-dd62a49eeb65",
+        "69756a74-c502-45bf-bbda-514f9b9e8214",
+        "e69fe2ac-7955-4112-9be0-80f1cce1c735",
+        "e3af50ca-4eec-4206-8819-22c9c0c8532d",
+        "adffa367-1daa-4c7c-b3f2-d584cbe97048",
+        "3b6c02e3-4f9d-4245-b9b1-4448b3a35898",
+        "9d732dd5-7c96-4bd0-b511-e2dc42246312",
+        "b81ca9af-fecd-4308-bfe8-5088583f2e8f",
+        "a2775603-5802-4a20-bc0b-994850a0e5ab",
+        "e5b69e75-0c21-436b-bbf2-2bd563fecf33",
+        "e7395838-1251-48f7-9414-d425d24ebf9a",
+        "8923c189-8c00-48be-a631-503167833727",
+        "219bfede-f1c7-46ba-989a-0194327684ff",
+        "d9c84ca3-b076-410a-855e-9297e1d1cbd9",
+        "f1cb57b8-0347-422a-acbe-c3192b7db82a",
+        "6d74ebaa-9d0e-48b1-8d77-0bce33e65a58",
+        "ef401ddb-bb37-4e58-920a-c3802a7ec9ac",
+        "681098ec-2681-46c3-88bc-d1d383315c67",
+        "9dbf76ff-0a44-4b59-97c8-deb6d2d18b51",
+        "314e92f3-a5a1-4fce-b665-e6e12489b187",
+        "d0ea75b6-baac-4228-871e-759313f57a2e",
+        "65e06538-45a9-48ba-92b3-ffc7595c5200",
+        "403733d0-de2f-4a58-8015-4a48dd9cf9f2",
+        "2e7bd434-8226-4a4d-b39a-b109e82ac711",
+        "9cc01363-3203-4ca1-95d2-d0b7bae98c26",
+        "bfc84770-5a9b-4540-af69-1de4e173fd66",
+        "934934d0-8282-4647-b2ca-9811127624dc",
+        "dc7d5cdf-509a-416c-bc0c-09676f7c1197",
+        "00a1417c-ba5e-4afc-b35f-0bcb636b1d85",
+        "00c5df55-091d-476f-be96-c53552cab774",
+        "62a71360-9990-4c02-a296-431e40d56c1e",
+        "6adf4003-479b-44fa-87a9-0cf10d78cf8e",
+        "10a1075f-3e08-496e-a2fe-d9ff83a1ad0c",
+        "8d52be44-7061-46bf-b1a2-7596bd0fd6b2",
+        "910f091f-69d5-4704-8bc4-6c3b0a5a6081",
+        "c59aaff6-2907-484d-a127-5b9ab8a8bda8"
+    ],
+    "instance_groups": {
+        "792b237a-d1c8-476a-a73c-d69b97eb8004": {
+            "name": "111",
+            "instances": [
+                "2b14ca09-5fea-4b23-8911-326cb64cce92"
+            ]
+        },
+        "d2ccb398-48a3-4728-a327-d1f48d60c1d6": {
+            "name": "11",
+            "instances": [
+                "69756a74-c502-45bf-bbda-514f9b9e8214",
+                "e69fe2ac-7955-4112-9be0-80f1cce1c735",
+                "3c9a04d0-61b6-4a9b-8cc9-0410356b245c"
+            ]
+        },
+        "ad0f90c7-7d6a-4333-995c-72de02fa8148": {
+            "name": "2222",
+            "instances": [
+                "e3af50ca-4eec-4206-8819-22c9c0c8532d",
+                "adffa367-1daa-4c7c-b3f2-d584cbe97048",
+                "3b6c02e3-4f9d-4245-b9b1-4448b3a35898"
+            ]
+        },
+        "d0ed2502-7784-42ef-8f95-87a64c9b9418": {
+            "name": "33",
+            "instances": [
+                "9d732dd5-7c96-4bd0-b511-e2dc42246312",
+                "b81ca9af-fecd-4308-bfe8-5088583f2e8f"
+            ]
+        },
+        "c63aec1f-aad9-474b-ae5f-37fa12d3a167": {
+            "name": "444",
+            "instances": [
+                "a2775603-5802-4a20-bc0b-994850a0e5ab",
+                "0b9dd8ff-5d94-45a8-bf9e-dd62a49eeb65",
+                "cb66f47a-67ae-4555-af3b-0b22ce352535"
+            ]
+        },
+        "255e381c-6baf-47bf-bfd1-c374c7a86ead": {
+            "name": "4444",
+            "instances": []
+        }
+    },
+    "instance_group_map": {
+        "cb66f47a-67ae-4555-af3b-0b22ce352535": "c63aec1f-aad9-474b-ae5f-37fa12d3a167",
+        "3c9a04d0-61b6-4a9b-8cc9-0410356b245c": "d2ccb398-48a3-4728-a327-d1f48d60c1d6",
+        "2b14ca09-5fea-4b23-8911-326cb64cce92": "792b237a-d1c8-476a-a73c-d69b97eb8004",
+        "0b9dd8ff-5d94-45a8-bf9e-dd62a49eeb65": "c63aec1f-aad9-474b-ae5f-37fa12d3a167",
+        "69756a74-c502-45bf-bbda-514f9b9e8214": "d2ccb398-48a3-4728-a327-d1f48d60c1d6",
+        "e69fe2ac-7955-4112-9be0-80f1cce1c735": "d2ccb398-48a3-4728-a327-d1f48d60c1d6",
+        "e3af50ca-4eec-4206-8819-22c9c0c8532d": "ad0f90c7-7d6a-4333-995c-72de02fa8148",
+        "adffa367-1daa-4c7c-b3f2-d584cbe97048": "ad0f90c7-7d6a-4333-995c-72de02fa8148",
+        "3b6c02e3-4f9d-4245-b9b1-4448b3a35898": "ad0f90c7-7d6a-4333-995c-72de02fa8148",
+        "9d732dd5-7c96-4bd0-b511-e2dc42246312": "d0ed2502-7784-42ef-8f95-87a64c9b9418",
+        "b81ca9af-fecd-4308-bfe8-5088583f2e8f": "d0ed2502-7784-42ef-8f95-87a64c9b9418",
+        "a2775603-5802-4a20-bc0b-994850a0e5ab": "c63aec1f-aad9-474b-ae5f-37fa12d3a167"
+    },
+    "instance_names": {
+        "2": "实例 2",
+        "4": "实例 11",
+        "3": "实例 3",
+        "cb66f47a-67ae-4555-af3b-0b22ce352535": "实例 2"
+    },
+    "post_count": 3,
+    "instance_count": 11,
+    "google_account_path": "C:/Users/yushu/Desktop/湖口谷歌.xlsx",
+    "Quora_excel_path": "",
+    "Quora_image_folder": "",
+    "Quora_post_count": 1,
+    "template_button_path": "c:\\Users\\yushu\\Desktop\\quora发帖\\button_templates\\template_button.png",
+    "theme_mode": "Light",
+    "profile_path": "C:/Users/yushu/Desktop/数据目录"
+}

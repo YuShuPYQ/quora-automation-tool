@@ -1,0 +1,8 @@
+playwright
+requests
+pytest
+openpyxl
+pyautogui
+Pillow
+pyperclip
+customtkinter
